@@ -264,3 +264,4 @@ Abra o navegador para acessar o management domain que tem o vcenter do VCF. (e.g
 
 * [VCF 9 – Parte 1: VCF Installer 9.0.1.0 Deployment](https://virtualizandoaju.com/2025/10/29/vcf-installer-9-0-1-0-deployment/)
 * [VCF 9 – Parte 2: Configurando Depot Offline](https://virtualizandoaju.com/2025/10/29/vcf-9-parte-2-configurando-depot-offline/)
+* [VCF 9 – Parte 3: Deploy VMware Cloud Foundation 9.0.1.0 – Single Node](https://virtualizandoaju.com/2025/11/12/vcf-9-parte-3-deploy-vmware-cloud-foundation-9-0-1-0-single-node/)
