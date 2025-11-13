@@ -35,17 +35,16 @@ VCF SINGLE NODE:
 
 ## Requisitos
 
-* Minimum 5 VLANs (e.g. 30, 40, 50, 60, 70) for VCF Fleet Deployment
-    * VLAN 30 - Management                           | 192.168.79.254/24
-    * VLAN 40 - vMotion                              | 10.10.40.1/24
-    * VLAN 50 - vSAN                                 | 10.10.50.1/24
-    * VLAN 60 - ESX/NSX Edge TEP (overlay NSX)       | 10.10.60.1/24
-    * VLAN 70 - Tier 0 Uplink                        | 10.10.70.1/24
-    * VLAN 80 - IaC (opcional)                       | 10.10.80.1/24
-    * VLAN 90 - Proxmox (opcional)                   | 10.10.90.1/24
-    * VLAN 100 - CPEH   (opcional)                   | 10.10.100.1/24
-    * VLAN 110 - OpenStack (opcional)                | 10.10.110.1/24
-    * VLAN 120 - Kubernets (cluster K8s bare-metal)  | 10.10.120.1/24
+* Minimum 5 VLANs (30, 40, 50, 60, 70) para VCF Fleet Deployment
+
+| VLAN       | FQDN                | IP Address  | Network                                 |
+|------------|---------------------|-------------|------------------------------------------|
+| 30         | management                          | 192.168.79.254/24  | 192.168.79.0                        |
+| 40         | vmotion                             | 10.10.40.1/24      | 10.10.40.0                          |
+| 50         | vsan                                | 10.10.50.1/24      | 10.10.50.0                          |
+| 60         | ESX/NSX Edge TEP (overlay NSX)      | 10.10.60.1/24      | 10.10.60.0                          |
+| 70         | Tier 0 Uplink                       | 10.10.70.1/24      | 10.10.70.0                          |
+| 80         | Kubernets (cluster K8s bare-metal)  | 10.10.80.1/24      | 10.10.80.0                          |
 
 * Aqui estão os endereços IP/entradas DNS que você precisará para a configuração inicial (NSX Edge, Supervisor e VKS).
 
