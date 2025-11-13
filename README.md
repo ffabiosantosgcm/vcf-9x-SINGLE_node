@@ -37,7 +37,7 @@ VCF SINGLE NODE:
 
 * Minimum 5 VLANs (30, 40, 50, 60, 70) para VCF Fleet Deployment
 
-| VLAN       | FQDN                | IP Address  | Network                                 |
+| VLAN       | Role                | IP Address  | Network                                 |
 |------------|---------------------|-------------|------------------------------------------|
 | 30         | management                          | 192.168.79.254/24  | 192.168.79.0                        |
 | 40         | vmotion                             | 10.10.40.1/24      | 10.10.40.0                          |
