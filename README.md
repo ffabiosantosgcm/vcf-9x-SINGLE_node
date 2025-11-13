@@ -22,7 +22,7 @@ VCF SINGLE NODE:
 ## Lista de Materiais
 
  * [VMware Cloud Foundation (VCF) 9.0.1.0](https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Cloud%20Foundation&displayGroup=VMware%20Cloud%20Foundation%209&release=9.0.1.0&os=&servicePk=&language=EN)
- * [1 x Supermicro SYS-5039C-T Xeon](https://store.supermicro.com/us_en/supermicro-superworkstation-mid-tower-sys-5039c-t.html?srsltid=AfmBOoqg-jlaLt4B4O8Uv6wQlf4fHOl5e4NVb-0EC1cDtYLdxYyO_LkP)
+ * [1 x Supermicro SYS-5039C-T Xeon - Apenas GABINETE com FONTE](https://store.supermicro.com/us_en/supermicro-superworkstation-mid-tower-sys-5039c-t.html?srsltid=AfmBOoqg-jlaLt4B4O8Uv6wQlf4fHOl5e4NVb-0EC1cDtYLdxYyO_LkP)
  * [1 Placa-Mãe	Supermicro X10DRL-I](https://www.supermicro.com/en/products/motherboard/X10DRL-i)
  * [2 x Processador Intel Xeon E5-2680 v4 (14 núcleos / 28 threads cada, até 3.3 GHz)](https://www.intel.com.br/content/www/br/pt/products/sku/91754/intel-xeon-processor-e52680-v4-35m-cache-2-40-ghz/specifications.html)
  * [1 x Placa de Rede Dual 10gb Intel Oem X540-t2 Pcie-x8 ou Pcie-x16](https://www.google.com/aclk?sa=L&ai=DChsSEwiqq-Ds3eyQAxUlckgAHbJnCj0YACICCAEQGBoCY2U&co=1&ase=2&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cHgfCS9ga9TKgCAC3GL8IOqj4OBEavBsqMWyz9PIFBD7r76fywEhnhoCnlQQAvD_BwE&cid=CAASsAHkaF74vdaNMVBrabSuvLpDFsoxxg01uQ0JxwBSTJ8HQf6iUy4FqAiRHVliTOfsQTxrLYKIiY0POIrasS_QLdZMJW1Nl9KdCsHaob6ibMi9-EYdvO0sW9j8rJ970NQSJC4RZXQvZwcv9POhKEwr5KbZQw0_NPvxxVMip3GbsX6NCqc08Fsd0qYSAkBAZvSironqGLNbVL4a4hEuinwPJP3DK8BSqcK7TYuS5DETFdv_6A&cce=2&category=acrcp_v1_32&sig=AOD64_10iMXVps5IYMg-aotW5vefmencmA&ctype=5&q=&nis=4&ved=2ahUKEwjt3dbs3eyQAxWoQ7gEHUxMCrkQ9aACKAB6BAgKECQ&adurl=)
