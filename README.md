@@ -36,6 +36,7 @@ VCF SINGLE NODE:
 ## Requisitos
 
 * Minimum 5 VLANs (30, 40, 50, 60, 70) para VCF Fleet Deployment
+* MTU 9000
 
 | VLAN       | Role                | IP Address  | Network                                 |
 |------------|---------------------|-------------|------------------------------------------|
