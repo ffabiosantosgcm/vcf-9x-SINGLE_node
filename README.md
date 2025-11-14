@@ -252,11 +252,11 @@ O script aguardará até que o vCenter Server esteja disponível e, assim que a 
 
 ![](screenshots/foto-15.png)
 
-Abra o navegador para acessar o management domain que tem o vcenter do VCF. (e.g. https://sddcm01.virtualizandoaju.com.br/) e faça login com nome de usuário `admin@local` e a senha `VMware1!VMware1!`.
+Abra o navegador para acessar o management domain que tem o vcenter do VCF. (https://sddcm01.virtualizandoaju.com.br/) e faça login com nome de usuário `admin@local` e a senha `VMware1!VMware1!`.
 
 ![](screenshots/foto-16.png)
 
-14. Abra o navegador para acessar o management domain que tem o vcenter do VCF. (e.g. https://vc01.virtualizandoaju.com.br/) e faça login com nome de usuário `admin@local` e a senha `VMware1!VMware1!`.
+14. Abra o navegador para acessar o vCenter do VCF. (https://vc01.virtualizandoaju.com.br/) e faça login com nome de usuário `administrator@vsphere.local` e a senha `VMware1!VMware1!`.
 
 ![](screenshots/foto-17.png)
 
