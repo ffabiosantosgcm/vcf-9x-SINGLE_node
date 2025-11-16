@@ -112,9 +112,9 @@ Você pode hospedar o VCF Offline Depot usando um servidor web HTTP tradicional 
 
 1. Baixe o arquivo python [http_server_auth](config/http_server_auth) e execute em um servidor separado na rede vlan 30 ou outro servidor da sua preferência.
 
-Comando:
+```console
 python http_server_auth.py --bind 192.168.79.149 --user vcf --password P@ssw0rdP@ssw0rd --directory depot
-
+```
 Certifique-se que o diretório depot exista e esteja de acordo com o passo 0.
 
 ![](screenshots/foto-2.png)
