@@ -266,3 +266,4 @@ Abra o navegador para acessar o management domain que tem o vcenter do VCF. (htt
 * [VCF 9 – Parte 2: Configurando Depot Offline](https://virtualizandoaju.com/2025/10/29/vcf-9-parte-2-configurando-depot-offline/)
 * [VCF 9 – Parte 3: Deploy VMware Cloud Foundation 9.0.1.0 – Single Node](https://virtualizandoaju.com/2025/11/12/vcf-9-parte-3-deploy-vmware-cloud-foundation-9-0-1-0-single-node/)
 * [VCF 9 – Parte 4: Configurando NSX Virtual Private Cloud (VPC)](https://virtualizandoaju.com/2025/11/14/vcf-9-parte-4-configurando-nsx-virtual-private-cloud-vpc/)
+* [VCF 9 – Parte 5: Configuring vSphere Supervisor with NSX VPC Networking](https://virtualizandoaju.com/2025/11/22/vcf-9-parte-5-configuring-vsphere-supervisor-with-nsx-vpc-networking/)
