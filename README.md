@@ -260,7 +260,7 @@ Abra o navegador para acessar o management domain que tem o vcenter do VCF. (htt
 
 ![](screenshots/foto-17.png)
 
-## Blog Referencia
+## Artigos VCF 9.0.1.0 do Blog
 
 * [VCF 9 – Parte 1: VCF Installer 9.0.1.0 Deployment](https://virtualizandoaju.com/2025/10/29/vcf-installer-9-0-1-0-deployment/)
 * [VCF 9 – Parte 2: Configurando Depot Offline](https://virtualizandoaju.com/2025/10/29/vcf-9-parte-2-configurando-depot-offline/)
