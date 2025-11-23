@@ -258,7 +258,7 @@ Abra o navegador para acessar o management domain que tem o vcenter do VCF. (htt
 
 14. Abra o navegador para acessar o vCenter do VCF. (https://vc01.virtualizandoaju.com.br/) e faça login com nome de usuário `administrator@vsphere.local` e a senha `VMware1!VMware1!`.
 
-<!-- ![](screenshots/foto-17.png) -->
+![](screenshots/foto-17.png)
 
 ## Artigos VCF 9.0.1.0 do Blog
 
