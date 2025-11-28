@@ -230,7 +230,6 @@ Faça o upload do seu manifesto de implantação VCF modificado. [vcf9010-single
 ![](screenshots/foto-12.png)
 
 Atenção nesta parte!
-Não tenho o print dessa verificação completa porque a instalação do VCF 9.0.1.0 foi feita no dia 28/10 e acabei não salvando essa etapa. As telas que você verá agora foram capturadas em cima de um host ESXi já configurado, por isso alguns erros de validação aparecendo.
 
 Em uma primeira instalação, seguindo corretamente o passo a passo, essas validações devem ser concluídas sem erros (desde que todos os pré-requisitos tenham sido atendidos).
 
