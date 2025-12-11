@@ -46,6 +46,7 @@ VCF SINGLE NODE:
 | 60         | ESX/NSX Edge TEP (overlay NSX)      | 10.10.60.1/24      | 10.10.60.0                          |
 | 70         | Tier 0 Uplink                       | 10.10.70.1/24      | 10.10.70.0                          |
 | 80         | Kubernets (cluster K8s)             | 10.10.80.1/24      | 10.10.80.0                          |
+| 90         | CEPH                                | 10.10.90.1/24      | 10.10.90.0                          |
 
 * Aqui estão os endereços IP/entradas DNS que você precisará para a configuração inicial (NSX Edge, Supervisor e VKS).
 
