@@ -36,7 +36,7 @@ VCF SINGLE NODE:
 ## Requisitos
 
 * Minimum 5 VLANs (30, 40, 50, 60, 70) para VCF Fleet Deployment
-* MTU 9000
+* MTU 9000 VLANS
 
 | VLAN       | Role                | IP Address  | Network                                 |
 |------------|---------------------|-------------|------------------------------------------|
@@ -45,7 +45,7 @@ VCF SINGLE NODE:
 | 50         | vsan                                | 10.10.50.1/24      | 10.10.50.0                          |
 | 60         | ESX/NSX Edge TEP (overlay NSX)      | 10.10.60.1/24      | 10.10.60.0                          |
 | 70         | Tier 0 Uplink                       | 10.10.70.1/24      | 10.10.70.0                          |
-| 80         | Kubernets (cluster K8s bare-metal)  | 10.10.80.1/24      | 10.10.80.0                          |
+| 80         | Kubernets (cluster K8s)             | 10.10.80.1/24      | 10.10.80.0                          |
 
 * Aqui estão os endereços IP/entradas DNS que você precisará para a configuração inicial (NSX Edge, Supervisor e VKS).
 
